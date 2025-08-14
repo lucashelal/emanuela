@@ -1,0 +1,1 @@
+NOTA: o dataset utilizado como exemplo (DO2006.DBF) encontra-se nesse link: https://drive.google.com/file/d/1yJAA4S9U4AcHQeP_tTSjzUV5Lo46kXgR/view?usp=sharing
