@@ -1,0 +1,8 @@
+# EN: Configuration file for data processing routines
+# PT: Arquivo de configuração para rotinas de processamento de dados"
+
+data_path: "data/raw/sim"
+output_path: "data/processed"  # EN: Path to cleaned data / PT: Caminho para dados limpos
+log_path: "logs/process.log"             # EN: Path to log file / PT: Caminho para arquivo de log
+date_format: "%Y-%m-%d"                  # EN: Date format / PT: Formato de data
+missing_value_threshold: 0.1             # EN: Threshold for missing values / PT: Limite para valores ausentes
